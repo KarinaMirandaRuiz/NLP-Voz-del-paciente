@@ -1,0 +1,14 @@
+# Carpetas
+.Bibliografía
+.google-reviews-scraper-pro
+.fp
+
+
+# files
+.SaludDigna.xlsx
+.data.csv
+.resumen_por_sucursal.csv
+.reviews_con_sentimiento.csv
+.reviews_con_temas.csv
+.reviews_pysentimiento.csv
+.url.csv
